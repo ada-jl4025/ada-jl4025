@@ -21,7 +21,7 @@ I’m passionate about integrating **AI, computational science, and engineering*
 ---
 
 ### 🔬 Research Experience & Projects
-- [**FusionFly**](https://github.com/Thorkee/FusionFly) — Scalable open-source framework for AI-powered positioning data standardization (Capstone @ IPN Lab, PolyU)  
+- [**FusionFly**]([https://github.com/Thorkee/FusionFly](https://github.com/ada-jl4025/FusionFly)) — Scalable open-source framework for AI-powered positioning data standardization (Capstone @ IPN Lab, PolyU)  
 - **Cargo Operation Safety Detection** — YOLO + LLM agentic framework deployed at HKIA for daily cargo safety monitoring (POC with Airport Authority Hong Kong)  
 - **Low-Cost Indoor Localization** — BIM + spherical panorama-based smartphone localization (IPN Lab, PolyU)  
 - **AI-aided GNSS Software Receiver** — ML-enhanced signal processing pipeline for GNSS navigation (Undergraduate Research & Innovation Scheme)  
@@ -41,6 +41,6 @@ I’m passionate about integrating **AI, computational science, and engineering*
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-l52b1.vercel.app/api?username=Thorkee&show_icons=true&theme=tokyonight" alt="Ju Lin's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats-l52b1.vercel.app/api/top-langs/?username=Thorkee&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats-l52b1.vercel.app/api?username=ada-jl4025&show_icons=true&theme=tokyonight" alt="Ju Lin's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats-l52b1.vercel.app/api/top-langs/?username=ada-jl4025&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
